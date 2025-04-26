@@ -9,13 +9,15 @@ About me:
 
 I am a computational political scientist. I specialize in quantitative research methodology and international relations. My research explores economic statecraft.
 
-I am currently a postdoctoral research fellow at the KU Trade War Lab. I was formerly a Japan Society for the Promotion of Science Predoctoral Research Fellow at, a Smith Richardson Foundation World Politics and Statecraft Fellow, and a UC Institute on Global Conflict and Cooperation Dissertation Fellow.
+I am a Postdoctoral Research Fellow at the University of Kansas's Trade War Lab. Previously, I was a Japan Society for the Promotion of Science Predoctoral Research Fellow at the University of Tokyo's Institute of Social Science (東京大学社会科学研究所), a Smith Richardson Foundation World Politics and Statecraft Fellow, and a University of California, Institute on Global Conflict and Cooperation Dissertation Fellow.
 ​
 I taught courses on research methodology and international relations at the University of California, Irvine, and Chapman University. I was a Pedagogical Fellow and a Teaching Apprentice at UC Irvine's Division of Teaching Excellence and Innovation.
  
 I enjoy exploring data and have worked as a quantitative researcher for numerous projects. I use R for my work, and I have experience teaching it. I also have experience with Python, SQL, and Tableau. Feel free to check out some of my project demos.
  
-I received my Ph.D. from the University of California, Irvine's Department of Political Science. I received my MSc from École des Hautes Études Commerciales du Nord (EDHEC) in Lille, France, in Global Business with a concentration on Finance. My thesis research on financial herding behavior detection in equity markets received the institution's best research award. I received my joint BSc in International Relations from the State University of New York at Binghamton and Middle East Technical University in Ankara, Turkey. My native language is Turkish, and I am conversational in French and Japanese.
+I earned my Ph.D. in Political Science from the University of California, Irvine, and my MSc in Global Business (Finance concentration) from EDHEC Business School in Lille, France, where my thesis on financial herding behavior received the best research award. I also hold a joint BSc in International Relations from SUNY Binghamton and Middle East Technical University.
+
+My native language is Turkish, and I am conversational in French and Japanese.
 
 ## Materials
 
