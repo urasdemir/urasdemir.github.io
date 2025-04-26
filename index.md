@@ -21,7 +21,7 @@ My native language is Turkish, and I am conversational in French and Japanese.
 
 ## Materials
 
-- 📄 [My CV (PDF)](assets/Demir - CV.pdf)
+- 📄 [My CV (PDF)](assets/docs/Demir_Stats_for_DS.pdf)
 - 📊 [DS Project Demos](/assets/plots/plot.html)
 - 📊 [Stats for DS Notes](/assets/plots/plot.html)
 - 📊 [Visualization Portfolio](/assets/plots/plot.html)
