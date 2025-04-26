@@ -21,8 +21,8 @@ I received my Ph.D. from the University of California, Irvine's Department of Po
 
 - 📄 [My CV (PDF)](/assets/docs/CV_2025.pdf)
 - 📄 [My Resume (PDF)](/assets/docs/resume_2025.pdf) 
-- 📊 [DS Project Demos] (/assets/plots/plot.html)
-- 📊 [Stats for DS Notes] (/assets/plots/plot.html)
+- 📊 [DS Project Demos](/assets/plots/plot.html)
+- 📊 [Stats for DS Notes](/assets/plots/plot.html)
 - 📊 [Visualization Portfolio](/assets/plots/plot.html)
 - 📂 [Datasets (.csv)](/assets/data/data.csv)
 
