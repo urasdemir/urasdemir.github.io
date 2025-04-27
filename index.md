@@ -31,6 +31,10 @@ title: Home
 
 <br><br>
 
+## Pages
+- [Research](/research)
+- [Teaching](/teaching)
+
 ## Materials
 
 - 📄 [My CV (PDF)](/assets/docs/Demir_CV_2025.pdf)
