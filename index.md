@@ -12,8 +12,6 @@ title: Home
 <img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 300px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-</div>
-
 # Welcome!
 
 **About me:**
