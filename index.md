@@ -5,11 +5,7 @@ title: Home
 
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/IMG_4894.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-
-  <div style="flex: 2; padding-left: 30px; min-width: 300px;">
+  <div style="flex: 2; min-width: 300px; padding-right: 30px;">
 
 # Welcome!
 
@@ -29,7 +25,13 @@ My native language is Turkish, and I am conversational in French and Japanese.
 
   </div>
 
+  <div style="flex: 1; min-width: 250px;">
+    <img src="/assets/images/IMG_4894.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
 </div>
+
+<br><br>
 
 ## Materials
 
