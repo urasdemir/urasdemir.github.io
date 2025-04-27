@@ -30,10 +30,9 @@ title: Home
 </div>
 
 <br><br>
-
 ## Pages
-- [Research](/research)
-- [Teaching](/teaching)
+[Research](/research.md)
+[Teaching](/teaching.md)
 
 ## Materials
 
