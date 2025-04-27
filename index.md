@@ -7,6 +7,8 @@ title: Home
 
 <div style="flex: 2; min-width: 300px; padding-right: 30px;">
 
+[Research](/research.md) | [Teaching](/teaching.md) | [CV](/assets/docs/Demir_CV_2025.pdf)
+
 <h1>Welcome!</h1>
 
 <p>I am a computational political scientist. I specialize in quantitative research methodology and international relations. My research explores economic statecraft.</p>
@@ -30,13 +32,8 @@ title: Home
 </div>
 
 <br><br>
-## Pages
-[Research](/research.md)
-[Teaching](/teaching.md)
 
 ## Materials
-
-- 📄 [My CV (PDF)](/assets/docs/Demir_CV_2025.pdf)
 - 📊 [DS Project Demos](/assets/plots/plot.html)
 - 📊 [Stats for DS Notes](/assets/docs/Demir_Stats_for_DS.pdf)
 - 📊 [Visualization Portfolio](/assets/plots/plot.html)
