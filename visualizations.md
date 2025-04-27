@@ -11,5 +11,5 @@ This is my data visualization portfolio. Here are some original graphs from my r
 
 <h2>3D Commodity Mapping</h2>
 {% raw %}
-<iframe src="/assets/plots/commodity_cube_plot_2000.html" width="100%" height="600px" style="border: none; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);"></iframe>
+<iframe src="/assets/plots/commodity_cube_plot_2000.html" width="100%" height="600px" loading="lazy" style="border: none; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);"></iframe>
 {% endraw %}
