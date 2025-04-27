@@ -6,11 +6,7 @@ title: Home
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
 
 <div style="flex: 2; min-width: 300px; padding-right: 30px;">
-</div>
 
-<div style="flex: 1; min-width: 250px; padding-top: 10px;">
-<img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 300px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
-</div>
 
 # Welcome!
 
@@ -27,6 +23,14 @@ I enjoy exploring data and have worked as a quantitative researcher for numerous
 I earned my Ph.D. in Political Science from the University of California, Irvine, and my MSc in Global Business (Finance concentration) from EDHEC Business School in Lille, France, where my thesis on financial herding behavior received the best research award. I also hold a joint BSc in International Relations from SUNY Binghamton and Middle East Technical University.
 
 My native language is Turkish, and I am conversational in French and Japanese.
+
+</div>
+
+<div style="flex: 1; min-width: 250px; padding-top: 10px;">
+<img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 300px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+</div>
 
 <br><br>
 
