@@ -11,14 +11,15 @@ Welcome to my teaching page. Here you can find information about the courses I h
 
 ## Courses Designed and Taught
 
-### Political Analysis
+### Computational Political Analysis
 
-How do political scientists carry out research?  
+How do computational political scientists carry out research?  
 This R-integrated course introduces students to the fundamentals of computational political science. Topics include:
 
 - Research design
-- Data gathering
-- Data wrangling and visualization in R
+- Data collection
+- Data wrangling with tidyverse
+- Data visualization with ggplot2
 - Application of basic quantitative methods
 
 While primarily designed for political science majors, the practical and transferable research skills taught in this course are applicable across all social sciences — and beyond.
@@ -33,9 +34,9 @@ While primarily designed for political science majors, the practical and transfe
 What are the causes of change in the international system?  
 This course explores how states and nonstate actors interact with each other, examining:
 
+- Overview of international relations history
 - Key theories, concepts, and debates
-- Contemporary global issues (trade, technology, human rights, climate change)
-- The impact of globalization on state behavior
+- Contemporary global issues (trade and finance, human rights, climate change)
 
 This course provides a strong foundation for further studies in international relations.
 
@@ -49,7 +50,7 @@ This course provides a strong foundation for further studies in international re
 
 I served as a teaching assistant for ten quarters at UC Irvine, assisting with the following courses:
 
-- Statistics and Probability Sequence (taught three times)
+- Statistics and Probability in Social Sciences (I, II, III)
 - Computer-Based Research in Social Sciences
 - Political Science Research Design
 - Introduction to International Relations
