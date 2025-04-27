@@ -10,6 +10,7 @@ title: Home
 <div style="text-align: left; font-size: 18px; margin-bottom: 20px;">
   <a href="/research" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Research</a>
   <a href="/teaching" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Teaching</a>
+  <a href="/dsprojects" style="margin-right: 20px; text-decoration: none; color: #0366d6;">DS Projects</a>
   <a href="/assets/docs/Demir_CV_2025.pdf" target="_blank" style="text-decoration: none; color: #0366d6;">CV</a>
 </div>
 
@@ -43,7 +44,6 @@ title: Home
 <br><br>
 
 ## Materials
-- 📊 [DS Project Demos](/assets/plots/plot.html)
 - 📊 [Stats for DS Notes](/assets/docs/Demir_Stats_for_DS.pdf)
 - 📊 [Visualization Portfolio (under construction)](/assets/plots/plot.html)
 - 📂 [Datasets (under construction)](/assets/data/data.csv)
