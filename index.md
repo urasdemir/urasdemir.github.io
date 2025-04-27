@@ -3,11 +3,17 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+<!-- Top navigation links -->
+<div style="text-align: center; font-size: 18px; margin-bottom: 20px;">
+  <a href="/research" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Research</a>
+  <a href="/teaching" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Teaching</a>
+  <a href="/assets/docs/Demir_CV_2025.pdf" target="_blank" style="text-decoration: none; color: #0366d6;">CV</a>
+</div>
+
+<!-- Main content with photo -->
+<div style="display: flex; align-items: stretch; flex-wrap: wrap;">
 
 <div style="flex: 2; min-width: 300px; padding-right: 30px;">
-
-[Research](/research.md) | [Teaching](/teaching.md) | [CV](/assets/docs/Demir_CV_2025.pdf)
 
 <h1>Welcome!</h1>
 
@@ -25,8 +31,8 @@ title: Home
 
 </div>
 
-<div style="flex: 1; min-width: 250px; padding-top: 10px;">
-<img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 300px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+<div style="flex: 1; min-width: 300px;">
+  <img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 </div>
