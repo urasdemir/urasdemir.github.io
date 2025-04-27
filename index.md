@@ -9,7 +9,7 @@ title: Home
 
 # Welcome!
 
-About me:
+**About me:**
 
 I am a computational political scientist. I specialize in quantitative research methodology and international relations. My research explores economic statecraft.
 
@@ -25,8 +25,8 @@ My native language is Turkish, and I am conversational in French and Japanese.
 
   </div>
 
-  <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/IMG_4894.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <div style="flex: 1; min-width: 250px; padding-top: 10px;">
+    <img src="/assets/images/photo.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
 
 </div>
