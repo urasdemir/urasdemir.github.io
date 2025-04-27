@@ -2,6 +2,9 @@
 layout: default
 title: Home
 ---
+<meta name="description" content="N. Uras Demir, Ph.D. - Computational Political Scientist specializing in economic statecraft.">
+<meta name="author" content="N. Uras Demir">
+<meta name="keywords" content= "Nazim Uras Demir, N. Uras Demir, Uras Demir, computational political science, international relations, economic statecraft, research, teaching">
 
 <!-- Top navigation links, left-aligned -->
 <div style="text-align: left; font-size: 18px; margin-bottom: 20px;">
