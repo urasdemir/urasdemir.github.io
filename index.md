@@ -3,14 +3,14 @@ layout: default
 title: Home
 ---
 
-<!-- Top navigation links -->
-<div style="text-align: center; font-size: 18px; margin-bottom: 20px;">
+<!-- Top navigation links, now left-aligned -->
+<div style="text-align: left; font-size: 18px; margin-bottom: 20px;">
   <a href="/research" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Research</a>
   <a href="/teaching" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Teaching</a>
   <a href="/assets/docs/Demir_CV_2025.pdf" target="_blank" style="text-decoration: none; color: #0366d6;">CV</a>
 </div>
 
-<!-- Main content with photo -->
+<!-- Main content: text on left, full-height photo on right -->
 <div style="display: flex; align-items: stretch; flex-wrap: wrap;">
 
 <div style="flex: 2; min-width: 300px; padding-right: 30px;">
@@ -32,7 +32,7 @@ title: Home
 </div>
 
 <div style="flex: 1; min-width: 300px;">
-  <img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 </div>
