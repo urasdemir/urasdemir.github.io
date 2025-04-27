@@ -3,14 +3,13 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
-
-<div style="flex: 2; min-width: 300px; padding-right: 30px;">
-
-
 # Welcome!
 
 **About me:**
+
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+
+<div style="flex: 2; min-width: 300px; padding-right: 30px;">
 
 I am a computational political scientist. I specialize in quantitative research methodology and international relations. My research explores economic statecraft.
 
