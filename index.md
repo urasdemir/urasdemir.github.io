@@ -9,8 +9,6 @@ title: Home
 
 <h1>Welcome!</h1>
 
-<strong>About me:</strong>
-
 <p>I am a computational political scientist. I specialize in quantitative research methodology and international relations. My research explores economic statecraft.</p>
 
 <p>I am a Postdoctoral Research Fellow at the University of Kansas's Trade War Lab. Previously, I was a Japan Society for the Promotion of Science Predoctoral Research Fellow at the University of Tokyo's Institute of Social Science (東京大学社会科学研究所), a Smith Richardson Foundation World Politics and Statecraft Fellow, and a University of California, Institute on Global Conflict and Cooperation Dissertation Fellow.</p>
