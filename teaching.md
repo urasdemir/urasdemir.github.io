@@ -23,8 +23,8 @@ This R-integrated course introduces students to the fundamentals of computationa
 
 While primarily designed for political science majors, the practical and transferable research skills taught in this course are applicable across all social sciences — and beyond.
 
-- 📄 [Click here for the syllabus](#)  
-- 📝 [Click here for the student evaluations](#)
+- 📄 [Click here for the syllabus](/assets/docs/Demir_Comp_Pol_Analysis_Eval_UCI.pdf)  
+- 📝 [Click here for the student evaluations, UCI](/assets/docs/Demir_Comp_Pol_Analysis_Syllabus.pdf)
 
 ---
 
@@ -39,14 +39,9 @@ This course explores how states and nonstate actors interact with each other, ex
 
 This course provides a strong foundation for further studies in international relations.
 
-**Institutions:**
-
-- **Chapman University**  
-  - 📝 [Click here for the student evaluations](#)
-
-- **University of California, Irvine**  
-  - 📄 [Click here for the syllabus](#)  
-  - 📝 [Click here for the student evaluations](#)
+  - 📄 [Click here for the syllabus](/assets/docs/Demir_Intro_to_IR_Syllabus.pdf)
+  - 📝 [Click here for the student evaluations, Chapman University](/assets/docs/Demir_Intro_to_IR_Eval_Chapman.pdf)
+  - 📝 [Click here for the student evaluations, UCI](/assets/docs/Demir_Intro_to_IR_Eval_UCI.pdf)
 
 ---
 
