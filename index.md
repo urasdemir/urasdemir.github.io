@@ -50,7 +50,7 @@ title: Home
 
 ## Get in touch
 
-- 📧 Email: nazimurasdemir [at] gmail.com
+- 📧 nazimurasdemir [at] gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/nazimurasdemir)
 - 🖥️ [GitHub](https://github.com/urasdemir)
 
