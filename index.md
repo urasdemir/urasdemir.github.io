@@ -26,7 +26,7 @@ My native language is Turkish, and I am conversational in French and Japanese.
 </div>
 
 <div style="flex: 1; min-width: 250px; padding-top: 10px;">
-<img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 400px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+<img src="/assets/images/git_photo.jpg" alt="Photo of Uras Demir" style="width: 600px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 </div>
