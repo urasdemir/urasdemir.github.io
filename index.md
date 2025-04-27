@@ -26,7 +26,7 @@ My native language is Turkish, and I am conversational in French and Japanese.
   </div>
 
   <div style="flex: 1; min-width: 250px; padding-top: 10px;">
-    <img src="/assets/images/photo.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
+    <img src="/assets/images/git_photo.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
 
 </div>
