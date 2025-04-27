@@ -42,8 +42,8 @@ title: Home
 ## Materials
 - 📊 [DS Project Demos](/assets/plots/plot.html)
 - 📊 [Stats for DS Notes](/assets/docs/Demir_Stats_for_DS.pdf)
-- 📊 [Visualization Portfolio](/assets/plots/plot.html)
-- 📂 [Datasets (.csv)](/assets/data/data.csv)
+- 📊 [Visualization Portfolio (under construction)](/assets/plots/plot.html)
+- 📂 [Datasets (under construction)](/assets/data/data.csv)
 
 ## Get in touch
 
