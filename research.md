@@ -35,7 +35,7 @@ This project reexamines the "trade follows the flag" hypothesis in contemporary 
 
 ---
 
-### Rally around the Product? Consumer Responses to Economic Sanctions
+### Rallying-‘round-the-Product? Consumer Responses to Economic Sanctions in Taiwan
 
 This paper examines how citizens respond when foreign adversaries impose economic sanctions on domestic goods. Using the generalized syntethic control approach, it analyzes China's 2021–2023 sanctions on Taiwanese fruit and seafood, measuring buycott effects across impacted products. The study tests conditions under which consumers increase domestic purchases to counter sanctions. It contributes to research on political consumerism, economic sanctions, and the link between geoeconomic conflict and commerce.
 
