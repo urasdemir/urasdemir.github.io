@@ -29,7 +29,7 @@ title: Home
 
 <p>I enjoy exploring data and have worked as a quantitative researcher for numerous projects. I use R for my work, and I have experience teaching it. I also have experience with Python, SQL, and Tableau. Feel free to check out some of my project demos.</p>
 
-<p>I earned my Ph.D. in Political Science from the University of California, Irvine, and my MSc in Global Business (Finance concentration) from EDHEC Business School in Lille, France, where my thesis on financial herding behavior received the best research award. I also hold a joint BSc in International Relations from SUNY Binghamton and Middle East Technical University.</p>
+<p>I earned my Ph.D. in Political Science from the University of California, Irvine, and my MSc in Global Business (Finance concentration) from EDHEC Business School in Lille, France, where my thesis on financial herding behavior received the best research award.</p>
 
 <p>My native language is Turkish, and I am conversational in French and Japanese.</p>
 
