@@ -24,7 +24,7 @@ This project (under review, ISA2024, APSA 2024, JSQPS 2024) explores how the com
 **Coercion by Proxy: A Network Analysis of China’s Economic Statecraft**  
 This project (ongoing) examines how states exert economic pressure indirectly when direct trade dependence is low. It focuses on China’s restrictions on Lithuania after it welcomed a Taiwan Representative Office. Network models trace how trade with third countries can be used as a coercive tool.
 
-**Are GSCs Vital for China’s Leaders?**
+**Are GSCs Vital for China’s Leaders?**  
 This project (published, ISA 2022, APSA 2023) examines how China’s leadership has benefited from the country’s integration into global supply chains, identifies the growing challenges that accompany those benefits, and categorizes the leadership's economic survival models into three groups. A discussion connects each model to the future of China’s interdependence with the US and the rest of the World.
 
 ---
