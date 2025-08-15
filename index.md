@@ -23,11 +23,11 @@ title: Home
 
 <p>I am a computational political scientist. I specialize in quantitative research methodology and international relations. My research explores economic statecraft.</p>
 
-<p>I am a Postdoctoral Research Fellow at the University of Kansas's Trade War Lab. Previously, I was a Japan Society for the Promotion of Science Predoctoral Research Fellow at the University of Tokyo's Institute of Social Science (東京大学社会科学研究所), a Smith Richardson Foundation World Politics and Statecraft Fellow, and a University of California, Institute on Global Conflict and Cooperation Dissertation Fellow.</p>
+<p>I am currently a Visiting Assistant Professor in the Department of Political Science and International Relations at Loyola Marymount University. Previously, a Postdoctoral Research Fellow at the University of Kansas's Trade War Lab, a Japan Society for the Promotion of Science Predoctoral Research Fellow at the University of Tokyo's Institute of Social Science (東京大学社会科学研究所), a Smith Richardson Foundation World Politics and Statecraft Fellow, and a University of California, Institute on Global Conflict and Cooperation Dissertation Fellow.</p>
 
 <p>I taught courses on research methodology and international relations at the University of California, Irvine, and Chapman University. I was a Pedagogical Fellow and a Teaching Apprentice at UC Irvine's Division of Teaching Excellence and Innovation.</p>
 
-<p>I enjoy exploring data and have worked as a quantitative researcher for numerous projects. I use R for my work, and I have experience teaching it. I also have experience with Python, SQL, and Tableau. Feel free to check out some of my project demos.</p>
+<p>I enjoy exploring data and have worked as a quantitative researcher for numerous projects. I use R for my work, and I have experience teaching it. I also have experience with Python and SQL. Feel free to check out some of my project demos.</p>
 
 <p>I earned my Ph.D. in Political Science from the University of California, Irvine, and my MSc in Global Business (Finance concentration) from EDHEC Business School in Lille, France, where my thesis on financial herding behavior received the best research award.</p>
 
