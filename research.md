@@ -59,7 +59,7 @@ This project (ongoing) tests whether large language models can accurately retrie
 ## Drivers of Economic Security Legislation
 
 **Does Economic Security Legislation Follow the Flag?**  
-This project (under review) uses text analysis to identify U.S. Congressional bills from 2012–2024 targeting China and Japan. It leverages text and machine-powered content analysis to classify each bill as punitive or rewarding and tests whether domestic politics or geopolitical factors better explain legislative patterns and uses a computational approach to test hypotheses on the drivers of these legislation.
+This project (ongoing) uses text analysis to identify U.S. Congressional bills from 2012–2024 targeting China and Japan. It leverages text and machine-powered content analysis to classify each bill as punitive or rewarding and tests whether domestic politics or geopolitical factors better explain legislative patterns and uses a computational approach to test hypotheses on the drivers of these legislation.
 
 ---
 
