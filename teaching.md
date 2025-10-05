@@ -5,7 +5,7 @@ title: Teaching
 
 # Teaching
 
-Welcome to my teaching page. Here you can find information about the courses I have designed and taught.
+Welcome to my teaching page. Here you can find information about the courses I have designed and taught at Loyola Marymount University, University of California, Irvine, and Chapman University.
 
 ---
 
