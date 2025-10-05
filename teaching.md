@@ -76,7 +76,7 @@ This course explores how states and nonstate actors interact with each other, ex
 
 This course provides a strong foundation for further studies in international relations.
 
-  - 📄 [Click here for the syllabus](/assets/docs/Demir_Intro_to_IR_Syllabus.pdf)
+  - 📄 [Click here for the syllabus](/assets/docs/Demir_Introduction_to_IR_Syllabus.pdf)
   - 📝 [Click here for the student evaluations, Chapman University](/assets/docs/Demir_Introduction_to_IR_Eval_Chapman.pdf)
   - 📝 [Click here for the student evaluations, UCI](/assets/docs/Demir_Introduction_to_IR_Eval_UCI.pdf)
 
