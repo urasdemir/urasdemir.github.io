@@ -61,8 +61,8 @@ This R-integrated course introduces students to the fundamentals of computationa
 
 While primarily designed for political science majors, the practical and transferable research skills taught in this course are applicable across all social sciences — and beyond.
 
-- 📄 [Click here for the syllabus](/assets/docs/Demir_Comp_Pol_Analysis_Eval_UCI.pdf)  
-- 📝 [Click here for the student evaluations, UCI](/assets/docs/Demir_Comp_Pol_Analysis_Syllabus.pdf)
+- 📄 [Click here for the syllabus](/assets/docs/Demir_Comp_Pol_Analysis_Syllabus.pdf)
+- 📝 [Click here for the student evaluations, UCI](/assets/docs/Demir_Comp_Pol_Analysis_Eval_UCI.pdf)  
 
 ---
 
