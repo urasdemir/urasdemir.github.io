@@ -23,7 +23,7 @@ title: Home
 
 <p>I am a computational political scientist. I specialize in quantitative research methodology and international relations. My research explores economic statecraft.</p>
 
-<p>I am currently a Visiting Assistant Professor in the Department of Political Science and International Relations at Loyola Marymount University. Previously, a Postdoctoral Research Fellow at the University of Kansas's Trade War Lab, a Japan Society for the Promotion of Science Predoctoral Research Fellow at the University of Tokyo's Institute of Social Science (東京大学社会科学研究所), a Smith Richardson Foundation World Politics and Statecraft Fellow, and a University of California, Institute on Global Conflict and Cooperation Dissertation Fellow.</p>
+<p>I am currently a Visiting Assistant Professor in the Department of Political Science and International Relations at Loyola Marymount University. Previously, I was a Postdoctoral Research Fellow at the University of Kansas's Trade War Lab, a Japan Society for the Promotion of Science Predoctoral Research Fellow at the University of Tokyo's Institute of Social Science (東京大学社会科学研究所), a Smith Richardson Foundation World Politics and Statecraft Fellow, and a University of California, Institute on Global Conflict and Cooperation Dissertation Fellow.</p>
 
 <p>I taught courses on research methodology and international relations at the University of California, Irvine, and Chapman University. I was a Pedagogical Fellow and a Teaching Apprentice at UC Irvine's Division of Teaching Excellence and Innovation.</p>
 
