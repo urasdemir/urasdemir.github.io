@@ -9,7 +9,7 @@ Welcome to my data science portfolio. Below are examples of interactive dashboar
 
 ---
 
-## 📊 Data Visualization Dashboard
+## Data Visualization Dashboard
 
 An interactive tool for exploring macroeconomic indices across different countries.  
 The dashboard allows users to dynamically filter, compare, and visualize multiple indicators to uncover global trends.
@@ -18,7 +18,7 @@ The dashboard allows users to dynamically filter, compare, and visualize multipl
 
 ---
 
-## 🔀 A/B Testing Simulator
+## A/B Testing Simulator
 
 A customizable simulator for conducting A/B tests toward sales analytics.  
 The simulator allows users to input experimental parameters and visualize expected outcomes for real-time business decision support.
@@ -27,7 +27,7 @@ The simulator allows users to input experimental parameters and visualize expect
 
 ---
 
-## 📊 ML-Based GDP Estimator
+## ML-Based GDP Estimator
 
 A dashboard that applies supervised machine learning techniques for GDP modeling.  
 The model leverages real-world economic features to estimate GDP values, providing customizable country-level and regional projections.
@@ -36,7 +36,7 @@ The model leverages real-world economic features to estimate GDP values, providi
 
 ---
 
-## 📈 Technical Analysis Dashboard
+## Technical Analysis Dashboard
 
 A flexible platform for conducting technical analysis of equity investments.  
 The dashboard supports dynamic plotting of moving averages, RSI, MACD, and other technical indicators with customizable timeframes.
@@ -45,7 +45,7 @@ The dashboard supports dynamic plotting of moving averages, RSI, MACD, and other
 
 ---
 
-## 📉 Value at Risk (VaR) Calculator
+## Value at Risk (VaR) Calculator
 
 A customizable app that estimates stock Value at Risk (VaR) using various simulation methods including historical simulation, variance-covariance approach, and Monte Carlo simulation.
 
