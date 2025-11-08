@@ -43,16 +43,11 @@ title: Home
 
 <br><br>
 
-## Materials
-- 📊 [Stats for DS Notes](/assets/docs/Demir_Stats_for_DS.pdf)
-- 📊 [Visualization Portfolio (under construction)](/assets/plots/plot.html)
-- 📂 [Datasets (under construction)](/assets/data/data.csv)
-
 ## Get in touch
 
-- 📧 nazimurasdemir [at] gmail.com
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/nazimurasdemir)
-- 🖥️ [GitHub](https://github.com/urasdemir)
+- nazimurasdemir [at] gmail.com
+- [LinkedIn Profile](https://www.linkedin.com/in/nazimurasdemir)
+- [GitHub](https://github.com/urasdemir)
 
 ---
 
