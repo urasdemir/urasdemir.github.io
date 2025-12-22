@@ -19,7 +19,7 @@ This course introduces students to the logic and practice of quantitative resear
 - Bivariate relationships and simple regression analysis
 Students gain hands-on experience with statistical software (R) and learn how to critically evaluate empirical findings in political science research.
 - 📄 [Click here for the syllabus](/assets/docs/Demir_Empirical_Approaches_Syllabus.pdf)
-- 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_EA_Eval_LMU.pdf)  
+- 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_EA_Eval_LMU.pdf)
 
 ### Advanced Empirical Methods (Political Science Quantitative Methods II)
 How do we move from simple relationships to robust causal analysis?
@@ -38,7 +38,8 @@ This course explores the causes and consequences of conflict and cooperation amo
 - Contemporary issues such as nuclear proliferation, economic security, and climate security
 Students analyze historical and contemporary cases through major theoretical perspectives, linking abstract concepts to real-world security challenges.
 - 📄 [Click here for the syllabus](/assets/docs/Demir_IS_Syllabus.pdf)
-- 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_IS_Eval_LMU.pdf)  
+- 📝 [Click here for the student evaluations (Midterm), LMU](/assets/docs/Demir_IS_Eval_LMU.pdf)
+- 📝 [Click here for the student evaluations (Final), LMU](/assets/docs/Demir_IS_Eval_LMU_Final.pdf)  
 
 ### International Organization
 How do international institutions shape global cooperation and conflict?
@@ -49,7 +50,8 @@ This course examines the design, evolution, and impact of international organiza
 - Global challenges: trade disputes, human rights, climate change, and security
 Students learn how formal and informal institutions structure state behavior, promote cooperation, and sometimes fail to prevent conflict.
 - 📄 [Click here for the syllabus](/assets/docs/Demir_IO_Syllabus.pdf)
-- 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_IO_Eval_LMU.pdf)  
+- 📝 [Click here for the student evaluations (Midterm), LMU](/assets/docs/Demir_IO_Eval_LMU.pdf)
+- 📝 [Click here for the student evaluations (Final), LMU](/assets/docs/Demir_IO_Eval_LMU_Final.pdf)    
 
 
 ### Computational Political Analysis
