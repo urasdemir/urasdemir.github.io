@@ -11,7 +11,7 @@ title: Home
   <a href="/research" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Research</a>
   <a href="/teaching" style="margin-right: 20px; text-decoration: none; color: #0366d6;">Teaching</a>
   <a href="/dsprojects" style="margin-right: 20px; text-decoration: none; color: #0366d6;">DS Projects</a>
-  <a href="/assets/docs/Demir_CV_2025.pdf" target="_blank" style="text-decoration: none; color: #0366d6;">CV</a>
+  <a href="/assets/docs/Demir_CV_2026.pdf" target="_blank" style="text-decoration: none; color: #0366d6;">CV</a>
 </div>
 
 <!-- Main content -->
