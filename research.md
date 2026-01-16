@@ -35,7 +35,7 @@ This project (published, ISA 2022, APSA 2023) examines how China’s leadership 
 This project (under review, ISA 2024, APSA 2025) explores how citizens respond when adversaries sanction domestic goods, focusing on China’s 2021–2023 sanctions on Taiwanese fruit and seafood. Using synthetic control method by examinign millions of sales records, it measures the size and duration of “buycott” effects. Results show short-term surges in purchases, especially in cities, which faded as sanctions expanded.
 
 **Consumers as Commercial Shields: Japanese Responses to Chinese Economic Sanctions**  
-This project (ongoing, ISA Virtual 2025, ISA 2025) investigates Japan’s consumer response to China’s 2023–2025 seafood import restrictions. It combines surveys with market and household spending data to track the effects of government-led buycott campaigns. Early evidence suggests short-term consumption boosts, shaped by region and motivation.
+This project (under review, ISA Virtual 2025, ISA 2025) investigates Japan’s consumer response to China’s 2023–2025 seafood import restrictions. It combines surveys with market and household spending data to track the effects of government-led buycott campaigns. Early evidence suggests short-term consumption boosts, shaped by region and motivation.
 
 ---
 
