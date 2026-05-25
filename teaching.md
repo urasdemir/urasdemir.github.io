@@ -16,7 +16,7 @@ This course builds on Empirical Methods, diving deeper into advanced quantitativ
 - Model diagnostics, robustness checks, and data visualization
 Students design and analyze their own research projects, learning how to connect theoretical questions with rigorous empirical evidence.
 - 📄 Syllabus coming soon.
-- 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_AdvEA_Eval_LMU.pdf)
+- 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_AdvEA_Eval_LMU_Final.pdf)
   
 ### Empirical Methods (Political Science Quantitative Methods)
 How can we use data to explain political phenomena?
