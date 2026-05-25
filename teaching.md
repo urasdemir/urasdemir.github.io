@@ -14,7 +14,7 @@ How do we move from simple relationships to causal analysis?
 This course builds on Empirical Methods, diving deeper into advanced quantitative tools used in contemporary political science research, including:
 - Advanced regression designs
 - Model diagnostics, robustness checks, and data visualization
-Students design and analyze their own research projects, learning how to connect theoretical questions with rigorous empirical evidence.
+- Students design and analyze their own research projects, learning how to connect theoretical questions with rigorous empirical evidence.
 - 📄 Syllabus coming soon.
 - 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_AdvEA_Eval_LMU_Final.pdf)
   
