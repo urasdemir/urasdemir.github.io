@@ -17,7 +17,7 @@ This course builds on Empirical Methods, diving deeper into advanced quantitativ
 Students design and analyze their own research projects, learning how to connect theoretical questions with rigorous empirical evidence.
 - 📄 Syllabus coming soon.
 - 📝 [Click here for the student evaluations, LMU](/assets/docs/Demir_AdvEA_Eval_LMU.pdf)
-- 
+  
 ### Empirical Methods (Political Science Quantitative Methods)
 How can we use data to explain political phenomena?
 This course introduces students to the logic and practice of quantitative research with R in political science, covering:
