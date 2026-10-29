@@ -7,10 +7,9 @@ title: Research
 
 Welcome to my research page. Here, you can find an overview of my ongoing projects, published work, and areas of interest. I specialize in international relations and quantitative research methods. My ongoing research covers five main themes:  
 1. Trade interdependence and international security  
-2. Economic sanctions and political consumerism  
-3. Allied trade in the context of geopolitics and geoeconomics  
-4. International political economy of foreign-invested firms  
-5. Drivers of economic security legislation  
+2. Allied trade in the context of geopolitics and geoeconomics  
+3. International political economy of foreign-invested firms  
+4. Drivers of economic security legislation  
 
 I also conduct survey experiments. Much of my work examines East Asia’s contemporary international relations using statistical and computational methods.
 
@@ -26,16 +25,6 @@ This project (ongoing) examines how states exert economic pressure indirectly wh
 
 **Are GSCs Vital for China’s Leaders?**  
 This project (published, ISA 2022, APSA 2023) examines how China’s leadership has benefited from the country’s integration into global supply chains, identifies the growing challenges that accompany those benefits, and categorizes the leadership's economic survival models into three groups. A discussion connects each model to the future of China’s interdependence with the US and the rest of the World.
-
----
-
-## Economic Sanctions and Political Consumerism
-
-**Rallying-‘round-the-Product? Consumer Responses to Economic Sanctions in Taiwan**  
-This project (under review, ISA 2024, APSA 2025) explores how citizens respond when adversaries sanction domestic goods, focusing on China’s 2021–2023 sanctions on Taiwanese fruit and seafood. Using synthetic control method by examinign millions of sales records, it measures the size and duration of “buycott” effects. Results show short-term surges in purchases, especially in cities, which faded as sanctions expanded.
-
-**Consumers as Commercial Shields: Japanese Responses to Chinese Economic Sanctions**  
-This project (under review, ISA Virtual 2025, ISA 2025) investigates Japan’s consumer response to China’s 2023–2025 seafood import restrictions. It combines surveys with market and household spending data to track the effects of government-led buycott campaigns. Early evidence suggests short-term consumption boosts, shaped by region and motivation.
 
 ---
 
