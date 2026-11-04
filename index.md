@@ -42,7 +42,6 @@ title: Home
 
 <!-- Interactive plot, full width below the intro -->
 <div style="margin-top: 40px;">
-  <h2>Product Cube, 2020</h2>  <!-- optional heading: rename or delete -->
   <iframe src="/assets/visualizations/commodity_cube_plot_2020.html"
           title="Interactive Product Classification, 2020"
           loading="lazy"
