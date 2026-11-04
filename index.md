@@ -58,4 +58,4 @@ title: Home
 - [LinkedIn Profile](https://www.linkedin.com/in/nazimurasdemir)
 ---
 
-© 2025 Nazim Uras Demir. All rights reserved.
+© 2026 Nazim Uras Demir. All rights reserved.
