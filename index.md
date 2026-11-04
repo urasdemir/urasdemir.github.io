@@ -45,7 +45,7 @@ title: Home
 <!-- Interactive plot, full width below the intro -->
 <div style="margin-top: 40px;">
   <h2>Commodity Cube, 2020</h2>  <!-- optional heading: rename or delete -->
-  <iframe src="/assets/plots/commodity_cube_plot_2020.html"
+  <iframe src="/assets/visualizations/commodity_cube_plot_2020.html"
           title="Interactive commodity cube plot, 2020"
           loading="lazy"
           style="width: 100%; height: 600px; border: none; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
