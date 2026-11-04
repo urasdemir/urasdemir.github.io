@@ -56,8 +56,6 @@ title: Home
 
 - nazimurasdemir [at] gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/nazimurasdemir)
-- [GitHub](https://github.com/urasdemir)
-
 ---
 
 © 2025 Nazim Uras Demir. All rights reserved.
