@@ -42,6 +42,19 @@ title: Home
 
 <br><br>
 
+<!-- Interactive plot, full width below the intro -->
+<div style="margin-top: 40px;">
+  <h2>Commodity Cube, 2020</h2>  <!-- optional heading: rename or delete -->
+  <iframe src="/assets/plots/commodity_cube_plot_2020.html"
+          title="Interactive commodity cube plot, 2020"
+          loading="lazy"
+          style="width: 100%; height: 600px; border: none; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+  </iframe>
+  <p style="font-size: 14px; margin-top: 8px;">
+    <a href="/assets/plots/commodity_cube_plot_2020.html" style="text-decoration: none; color: #0366d6;">Open full screen</a>
+  </p>
+</div>
+
 ## Get in touch
 
 - nazimurasdemir [at] gmail.com
