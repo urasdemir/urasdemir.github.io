@@ -51,7 +51,7 @@ title: Home
           style="width: 100%; height: 600px; border: none; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
   </iframe>
   <p style="font-size: 14px; margin-top: 8px;">
-    <a href="/assets/plots/commodity_cube_plot_2020.html" style="text-decoration: none; color: #0366d6;">Open full screen</a>
+    <a href="/assets/visualizations/commodity_cube_plot_2020.html" style="text-decoration: none; color: #0366d6;">Open full screen</a>
   </p>
 </div>
 
